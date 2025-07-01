@@ -5,7 +5,7 @@ export default function HomePage() {
     <section className="text-center py-16">
       <div className="flex justify-center mb-6">
         <Image
-          src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=facearea&w=300&h=300&facepad=2&q=80"
+          src="/dr-blake.jpg"
           alt="Dr. Serena Blake portrait placeholder"
           width={120}
           height={120}
